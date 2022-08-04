@@ -1,0 +1,19 @@
+{
+  "name": "city-explorer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadrah-Alsabagh/city-explorer-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadrah-Alsabagh/city-explorer-api/issues"
+  },
+  "homepage": "https://github.com/Sadrah-Alsabagh/city-explorer-api#readme"
+}
